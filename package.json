@@ -35,7 +35,7 @@
     "ava": "^3.9.0",
     "backstopjs": "3.8.8",
     "banner-cli": "^0.14.3",
-    "browser-sync": "^2.18.5",
+    "browser-sync": "^2.26.14",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "node-sass": "^4.12.0",
