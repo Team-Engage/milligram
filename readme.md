@@ -1,3 +1,7 @@
+# **NOTICE: This repo is archived and is no longer being maintained**
+
+> Please see [Engage Static](https://github.com/Team-Engage/Static) for updated CSS
+
 <a align="center" href="https://milligram.io"><img width="100%" src="https://milligram.io/images/thumbnail.png" alt="Milligram - A minimalist CSS framework."></a>
 
 > A minimalist CSS framework.
